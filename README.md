@@ -40,3 +40,4 @@ Once your choice of software is installed, you will need to verify thhat you hav
 2. Click the blue "Commit"  button, and then "all" (or the comparible button)
 3. Describe the chamges made, with the first line of texty being your "title" and all below being your additional description if needed.
 4. When finished, click the "Accept Commit Message" check mark button on the right side. 
+5. Be sure to sync yur changes, and link your GitHub accunt if needed by following the prompts. 
