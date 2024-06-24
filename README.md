@@ -37,4 +37,6 @@ Once your choice of software is installed, you will need to verify thhat you hav
 1. Using the "Extensions" tab, download the "Fountain Workshop" extension
 ### How to Commit to The Repo
 1. Wheen you are done with your changes or additions to the repository, go to the "Sorce Control" tab
-2. Click the blue "Commit"  button, and then 
+2. Click the blue "Commit"  button, and then "all" (or the comparible button)
+3. Describe the chamges made, with the first line of texty being your "title" and all below being your additional description if needed.
+4. When finished, click the "Accept Commit Message" check mark button on the right side. 
